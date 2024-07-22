@@ -29,7 +29,7 @@ const NativeNavigation: React.FC<NativeNavigationProps> = ({
             transition-all
             gap-2
           "
-            href={`https://collabsuit-ai.vercel.app/`}
+            href={`https://ai-colabsuite.vercel.app/`}
           >
             <div className="h-6 w-6">
               <CypressDiamondIcon />
